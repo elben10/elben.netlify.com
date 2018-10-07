@@ -1,0 +1,3 @@
+[submodule "themes/hugopersonal"]
+	path = themes/hugopersonal
+	url = https://github.com/elben10/hugopersonal
